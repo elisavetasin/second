@@ -1,0 +1,65 @@
+C:\Users\peppa\Desktop\10A\10A\bin\Debug\10A.exe.config
+C:\Users\peppa\Desktop\10A\10A\bin\Debug\10A.exe
+C:\Users\peppa\Desktop\10A\10A\bin\Debug\10A.pdb
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A.csproj.SuggestedBindingRedirects.cache
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\MainWindow.baml
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\MainWindow.g.cs
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\App.g.cs
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A_MarkupCompile.cache
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A.g.resources
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A.csproj.GenerateResource.cache
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A.exe
+C:\Users\peppa\Desktop\10A\10A\obj\Debug\10A.pdb
+C:\Users\peppa\Desktop\10\10A\10A\bin\Debug\10A.exe.config
+C:\Users\peppa\Desktop\10\10A\10A\bin\Debug\10A.exe
+C:\Users\peppa\Desktop\10\10A\10A\bin\Debug\10A.pdb
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A.csproj.SuggestedBindingRedirects.cache
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\MainWindow.baml
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\MainWindow.g.cs
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\App.g.cs
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A_MarkupCompile.cache
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A.g.resources
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A.csproj.GenerateResource.cache
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A.exe
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\10A.pdb
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\TextFromFile.baml
+C:\Users\peppa\Desktop\10\10A\10A\obj\Debug\TextFromFile.g.cs
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\bin\Debug\10A.exe.config
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\bin\Debug\10A.exe
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\bin\Debug\10A.pdb
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A.csproj.AssemblyReference.cache
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\MainWindow.baml
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\TextFromFile.baml
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\MainWindow.g.cs
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\TextFromFile.g.cs
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\App.g.cs
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A_MarkupCompile.cache
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A.g.resources
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A.csproj.GenerateResource.cache
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A.csproj.CoreCompileInputs.cache
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A.exe
+C:\Users\kuval\OneDrive\Рабочий стол\10\10A\10A\obj\Debug\10A.pdb
+E:\помащьпоисрпо8сем\10\10A\10A\bin\Debug\10A.exe.config
+E:\помащьпоисрпо8сем\10\10A\10A\bin\Debug\10A.exe
+E:\помащьпоисрпо8сем\10\10A\10A\bin\Debug\10A.pdb
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\10A.csprojAssemblyReference.cache
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\MainWindow.baml
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\TextFromFile.baml
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\MainWindow.g.cs
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\TextFromFile.g.cs
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\App.g.cs
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\10A_MarkupCompile.cache
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\10A.g.resources
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\10A.csproj.GenerateResource.cache
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\10A.csproj.CoreCompileInputs.cache
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\10A.exe
+E:\помащьпоисрпо8сем\10\10A\10A\obj\Debug\10A.pdb

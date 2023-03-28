@@ -1,0 +1,48 @@
+﻿<Window x:Class="_10A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Имя файла: " Margin="3" />
+        <TextBox Name="name_textBox" Grid.Row="0" Grid.Column="1" Text="*.txt" Margin="3" />
+        <Label Grid.Row="1" Grid.Column="0" Content="Путь к файлу: " Margin="3" />
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <TextBox Name="path_textBox" Grid.Column="0" Margin="3" />
+            <Button Name="browse_button" Grid.Column="1" Content="Обзор" Margin="3" Click="browse_button_Click" />
+        </Grid>
+
+        <StackPanel Grid.Row="2" Grid.Column="0" Margin="3">
+            <CheckBox Name="subfolders_checkBox" Content="Искать в папках" Margin="3" />
+            <Button Name="search_button" Content="Искать" HorizontalAlignment="Left" Margin="3" Click="search_button_Click" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Grid.Column="0" Margin="3">
+            <Button Name="open_button" HorizontalAlignment="Left" Margin="3" Content="Открыть" Click="open_button_Click" />
+            <Button Name="compress_button" HorizontalAlignment="Left" Margin="3" Content="Архивировать" Click="compress_button_Click" />
+        </StackPanel>
+
+        <ListBox Name="listBox" Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Margin="3" />
+    </Grid>
+</Window>
